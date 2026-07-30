@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Only allow these 3 folders
+!/01-Exam-Overview/
+!/02-Study-Guide/
+!/03-Domain-1/
+
+# Also keep SYLLABUS.md (project overview)
+!/SYLLABUS.md
+
+!.gitignore
