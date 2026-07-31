@@ -1,10 +1,21 @@
 # Ignore everything
 /*
 
-# Only allow these 3 folders
+# Allow the pushed folders
 !/01-Exam-Overview/
 !/02-Study-Guide/
 !/03-Domain-1/
+!/04-Domain-2/
+!/05-Domain-3/
+!/06-Domain-4/
+!/07-Domain-5/
+!/08-Flashcards/
+!/09-MCQ/
+!/10-Mock-Exam/
+!/11-Cheat-Sheets/
+!/12-Architecture-Diagrams/
+!/13-Glossary/
+!/14-Revision/
 
 # Also keep SYLLABUS.md (project overview)
 !/SYLLABUS.md
